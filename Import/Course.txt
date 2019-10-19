@@ -1,0 +1,30 @@
+Object Oriented Programming
+CSE148
+4
+Teaches student about object oriented thinking
+1
+Biology
+BIO150
+4
+Biology Course
+2
+Introduction to Programming
+CSE110
+3
+Fundamentals of programming
+3
+Introduction to Literature
+ENG110
+4
+Literature
+4
+Introduction to English
+ENG101
+3
+Shows students the basics of English writing
+4
+Introduction to Mathematics
+MAT001
+3
+Basics of math
+4

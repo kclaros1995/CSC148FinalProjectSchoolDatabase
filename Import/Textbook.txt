@@ -1,0 +1,10 @@
+Intro to Java
+James Fulton
+McGraw hill
+111
+20.99
+Single Variable Calculus
+Bruce Wayne
+Pearson
+222
+90.99
